@@ -1,0 +1,222 @@
+{
+  "project_info": {
+    "project_number": "789326957933",
+    "firebase_url": "https://gombeigr.firebaseio.com",
+    "project_id": "gombeigr",
+    "storage_bucket": "gombeigr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789326957933:android:441b02fb69da6e797f5e64",
+        "android_client_info": {
+          "package_name": "com.guidoapps.firestorerecycleradaptersample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamvGoFUJmgJ2VxPZ7fSoZeVqZ2FZOJY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789326957933:android:16d92b9980b3d7d17f5e64",
+        "android_client_info": {
+          "package_name": "com.mannir.android1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789326957933-0upc80pvij273vfejd1hbi3j1sgo95q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mannir.android1",
+            "certificate_hash": "14bd54219be672132cdeb03c13895b5828b5de77"
+          }
+        },
+        {
+          "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamvGoFUJmgJ2VxPZ7fSoZeVqZ2FZOJY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789326957933:android:7494dbeed49771467f5e64",
+        "android_client_info": {
+          "package_name": "com.mannir.bluetoothprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamvGoFUJmgJ2VxPZ7fSoZeVqZ2FZOJY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789326957933:android:41a6b09798e913f77f5e64",
+        "android_client_info": {
+          "package_name": "com.mannir.ewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamvGoFUJmgJ2VxPZ7fSoZeVqZ2FZOJY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789326957933:android:72640c6c441d8e867f5e64",
+        "android_client_info": {
+          "package_name": "com.mannir.firestore1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamvGoFUJmgJ2VxPZ7fSoZeVqZ2FZOJY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789326957933:android:978839b2b58d0adc7f5e64",
+        "android_client_info": {
+          "package_name": "com.mannir.gombeigr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamvGoFUJmgJ2VxPZ7fSoZeVqZ2FZOJY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789326957933:android:3f1f8e1c4292acc27f5e64",
+        "android_client_info": {
+          "package_name": "com.mannir.igrpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamvGoFUJmgJ2VxPZ7fSoZeVqZ2FZOJY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789326957933-g3i8cottvi8nuv1mkhu8tg4p1cc1cloe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
